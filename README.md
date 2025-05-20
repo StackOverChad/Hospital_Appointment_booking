@@ -60,7 +60,7 @@ npm run lint
 ```
 ## Key Technologies
 1. Node.js
-2. Express.js (example)
+2. Express.js 
 3. TypeScript
 ## Project Structure
 1. src/: Main application source code
@@ -68,7 +68,6 @@ npm run lint
 3. models/: Database models/schemas
 4. middleware/: Custom middleware
 5. healthcare-backend/: [Explain what this folder is for]
-6. .bolt/: [Explain what this folder is for, if it's versioned]
 ```bash
 **Important:** If you have an `.env.example` file, make sure it's *not* listed in your `.gitignore` (or is explicitly un-ignored with `!.env.example`).
 ```
