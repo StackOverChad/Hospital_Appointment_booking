@@ -48,20 +48,25 @@ npm start
 # or
 # yarn build
 # yarn start
+```
 
-Linting (if applicable)
+## Linting (if applicable)
+```bash
 npm run lint
 # or
 # yarn lint
-Key Technologies
+```
+## Key Technologies
 1. Node.js
 2. Express.js (example)
 3. TypeScript
-Project Structure
+## Project Structure
 1. src/: Main application source code
 2. routes/: API route definitions
 3. models/: Database models/schemas
 4. middleware/: Custom middleware
 5. healthcare-backend/: [Explain what this folder is for]
 6. .bolt/: [Explain what this folder is for, if it's versioned]
+```bash
 **Important:** If you have an `.env.example` file, make sure it's *not* listed in your `.gitignore` (or is explicitly un-ignored with `!.env.example`).
+```
