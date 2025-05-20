@@ -42,7 +42,9 @@
 npm run dev
 # or
 # yarn dev
-Production Build (if applicable):
+```
+## Production Build (if applicable):
+```bash
 npm run build
 npm start
 # or
