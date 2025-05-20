@@ -1,9 +1,9 @@
-# My NodeJS Healthcare Application
+# Hospital Appointment Booking Website
 
-[Brief description of your project]
+This project is a Hospital Appointment Booking System designed to streamline the process of scheduling medical consultations. Patients can browse available doctors/services, select suitable appointment slots, and book their appointments online. Upon successful booking, automated confirmation emails are sent to both the patient and the relevant hospital department/personnel, ensuring clear communication and record-keeping. The backend functionalities, including appointment management, user authentication, and email notifications, are powered by [Your Backend Technology, e.g., Supabase, Node.js with Express], while the user interface is built using [Your Frontend Framework, e.g., React, Vue, Svelte with Vite and TypeScript].
 
 ## Prerequisites
-- Node.js (e.g., v18.x or later)
+- Node.js 
 - npm or yarn
 
 ## Setup
@@ -67,7 +67,6 @@ npm run lint
 2. routes/: API route definitions
 3. models/: Database models/schemas
 4. middleware/: Custom middleware
-5. healthcare-backend/: [Explain what this folder is for]
 ```bash
 **Important:** If you have an `.env.example` file, make sure it's *not* listed in your `.gitignore` (or is explicitly un-ignored with `!.env.example`).
 ```
